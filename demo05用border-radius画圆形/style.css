@@ -1,0 +1,18 @@
+.demo{
+    width:200px;
+    height:100px;
+    border:1px solid #ccc;
+    background-color: #f66;
+    margin:50px auto;
+    /* border-radius: 50%; */
+    /* border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-left-radius: 50%; */
+    /* border-radius:100px 100px 50px 60px; */
+    /* 100px 代表X轴 50px代表y轴 */
+    /* border-top-left-radius: 100px 50px; */
+    /* 左半圆 */
+    /* border-radius:100px 0px 0px 100px; */
+    border-radius:100px 100px 0  0;
+}
