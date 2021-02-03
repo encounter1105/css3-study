@@ -1,0 +1,15 @@
+.linear{
+    width:300px;
+    height:300px;
+    margin:20px auto;
+    background-image: -o-repeating-linear-gradient(red,green 10%,orange 20%);
+    background-image: repeating-linear-gradient(red,green 10%,orange 20%);
+}
+.radial{
+    width:300px;
+    height:300px;
+    margin:20px auto;
+    border-radius: 50%;
+    background-image:-o-repeating-radial-gradient(red,green 10%,orange 20%);
+    background-image:repeating-radial-gradient(red,green 10%,orange 20%);
+}
